@@ -1,0 +1,9 @@
+00277f938751c25c0ad7bb3e78ecfe44 *DESCRIPTION
+c3cc1a91eef6ed753ee59f13b7f2c793 *NAMESPACE
+e6ae24bb606c8266def7fdcfc04c5f82 *R/EMSC.R
+177743da1e524765f8f4ae4894c4742c *R/milk.R
+32c6d73e97f283d311b24a7e9d1a8c82 *data/datalist
+3a213540c27d056ecf2f394151e577ba *data/milk.rda
+3ede7af9a72697e8b2b635a244245a6c *man/EMSC.Rd
+e8e2eabfcfc56faaadc19183734736f3 *man/EMSC_model.Rd
+de8ed7f9a2df0906e123bf1950a0ce80 *man/milk.Rd
