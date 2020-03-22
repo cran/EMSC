@@ -5,7 +5,8 @@
 \title{Model object for extended multiplicative signal correction (EMSC)}
 \usage{
 EMSC_model(x, reference = NA, degree = 2, interferent = NULL,
-  constituent = NULL, weights = NULL, replicates = NULL, rep_corr = 0.9)
+  constituent = NULL, weights = NULL, replicates = NULL,
+  rep_corr = 0.9)
 }
 \arguments{
 \item{x}{\code{numeric} vector containing abcissas of spectra to be corrected or matrix to be 
